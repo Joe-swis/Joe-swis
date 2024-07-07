@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Swis & @Joe & @Rachid</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
-<img align="right" alt="coding" width="400" scr="![blob](https://github.com/RachidIferdin/RachidIferdin/assets/125489445/c1104ac9-865e-41cc-86aa-e5e539bfac2e)
+<img align="right" alt="coding" width="400" scr="![Uploading image.png…]()
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachid-iferdin&label=Profile%20views&color=0e75b6&style=flat" alt="rachid-iferdin" /> </p>
 
