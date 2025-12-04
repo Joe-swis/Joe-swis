@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm @Swis & @Joe & @Rachid</h1>
+<h1 align="center">Hi 👋, I'm @Swis & @Joe </h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 <img align="right" alt="coding" width="400" scr="![Uploading image.png…]()
 ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachid-iferdin&label=Profile%20views&color=0e75b6&style=flat" alt="rachid-iferdin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 
